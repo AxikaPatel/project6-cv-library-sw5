@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Nop-Commerce Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="32.115">
+  <properties />
+  
+  
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="4.067" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="3.793" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="4.293" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="3.784" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="4.243" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="7.793" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="4.142" classname="uk.co.library.testsuite.JobSearchTest" />
+      
+</testsuite>
